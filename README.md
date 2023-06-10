@@ -1,5 +1,7 @@
 # Power Delete Suite
 
+NEW! See point 9 below
+
  Why use the Power Delete Suite instead of the other mass reddit deletion scripts?
 
  1. There is complete privacy built in. There are no callbacks to any personal servers, no tracking, or logging. You don't even have to enter your password. EVER. *\*ahem, shreddit\** You are completely anonymous.
@@ -18,6 +20,7 @@
  6. You can do an export of all the content you filter, whether or not you're deleting or editing!
  7. It pulls the latest version from github, so whenever I add new features or fix bugs, you have it instantly!
  8. It was built by /u/j0be, a well known reddit user with a long reddit history and moderates several large subreddits. This means you don't just have to implicitly trust "some random person you can't track down." *\*ahem, reddit overwrite\**
+ 9. NEW! User [gbf-dtb](https://github.com/gbf-dtb) added a timer so that you don't accidentally go over Reddit's rate limit, and I made a new JSFiddle so that you can easily access the new script like the old one. Just follow the link and drag the red button in the lower right quadrant to your bookmarks, then use from your user profile.
 
 ## Screenshots
  
@@ -25,7 +28,7 @@
  
 ## Installation 
  
- [![Install PowerDeleteSuite](https://i.imgur.com/c0s8Mm2.png)](https://codepen.io/j0be/full/WMBWOW/)
+ [![Install PowerDeleteSuite](https://i.imgur.com/c0s8Mm2.png)](https://jsfiddle.net/PalladeAtena/kb9wf140/7/)
  
 ## Bugs / Issues?
  
